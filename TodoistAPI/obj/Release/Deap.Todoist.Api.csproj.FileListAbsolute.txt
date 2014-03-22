@@ -1,0 +1,8 @@
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\bin\Release\Deap.Todoist.Api.dll
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\bin\Release\Deap.Todoist.Api.pdb
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\ResolveAssemblyReference.cache
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\Deap.Todoist.Api.Properties.Resources.resources
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\ResGen.read.1.tlog
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\ResGen.write.1.tlog
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\Deap.Todoist.Api.dll
+C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\Deap.Todoist.Api.pdb
