@@ -28,34 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnStart = new System.Windows.Forms.Button();
+            this.lblStatusBox = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnStart
+            // lblStatusBox
             // 
-            this.btnStart.Location = new System.Drawing.Point(85, 214);
-            this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(75, 23);
-            this.btnStart.TabIndex = 0;
-            this.btnStart.Text = "Do It!";
-            this.btnStart.UseVisualStyleBackColor = true;
-            this.btnStart.Click += new System.EventHandler(this.button1_Click);
+            this.lblStatusBox.AutoSize = true;
+            this.lblStatusBox.Location = new System.Drawing.Point(25, 38);
+            this.lblStatusBox.Name = "lblStatusBox";
+            this.lblStatusBox.Size = new System.Drawing.Size(91, 13);
+            this.lblStatusBox.TabIndex = 0;
+            this.lblStatusBox.Text = "Starting Service...";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.btnStart);
+            this.ClientSize = new System.Drawing.Size(441, 92);
+            this.Controls.Add(this.lblStatusBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Todoist to HabitRPG Sync";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button btnStart;
+        private System.Windows.Forms.Label lblStatusBox;
+
     }
 }
 

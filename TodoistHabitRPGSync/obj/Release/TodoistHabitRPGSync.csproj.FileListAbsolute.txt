@@ -1,0 +1,17 @@
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\TodoistHabitRPGSync.exe.config
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\TodoistHabitRPGSync.exe
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\TodoistHabitRPGSync.pdb
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\Deap.Todoist.Api.dll
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\HabitRPG.NET.dll
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\Newtonsoft.Json.dll
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\RestSharp.dll
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\Deap.Todoist.Api.pdb
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\HabitRPG.NET.pdb
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\Newtonsoft.Json.xml
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Release\RestSharp.xml
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Release\TodoistHabitRPGSync.csprojResolveAssemblyReference.cache
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Release\TodoistHabitRPGSync.Form1.resources
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Release\TodoistHabitRPGSync.Properties.Resources.resources
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Release\TodoistHabitRPGSync.csproj.GenerateResource.Cache
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Release\TodoistHabitRPGSync.exe
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Release\TodoistHabitRPGSync.pdb

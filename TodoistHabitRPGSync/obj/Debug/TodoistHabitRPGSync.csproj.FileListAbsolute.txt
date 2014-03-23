@@ -14,3 +14,4 @@ C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\De
 C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Debug\TodoistHabitRPGSync.csproj.GenerateResource.Cache
 C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Debug\TodoistHabitRPGSync.exe
 C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\obj\Debug\TodoistHabitRPGSync.pdb
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistHabitRPGSync\bin\Debug\TodoistHabitRPGSync.exe.config

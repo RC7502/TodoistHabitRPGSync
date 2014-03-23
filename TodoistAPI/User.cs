@@ -304,9 +304,13 @@ namespace Deap.Todoist.Api
 
         public Item AddItem(Item newItem)
         {
-            string parameters = "content=" + newItem.Content;
+            var parameters = "content=" + newItem.Content;
             if (newItem.DueDate != null)
                 parameters += "&date_string=" + newItem.DueDate.Value.ToShortDateString();
+            if (newItem.Priority != null)
+                parameters += "&priority=" + newItem.Priority;
+            else
+                parameters += "&priority=4";
             return Todoist.Request<Item>("addItem", parameters, this);
         }
 

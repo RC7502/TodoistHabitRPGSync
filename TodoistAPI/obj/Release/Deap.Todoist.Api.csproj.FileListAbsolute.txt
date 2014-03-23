@@ -6,3 +6,10 @@ C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\ResGen.read.1.tlog
 C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\ResGen.write.1.tlog
 C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\Deap.Todoist.Api.dll
 C:\DEVELOP\Projects\Deap.Todoist\Deap.Todoist.API\obj\Release\Deap.Todoist.Api.pdb
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistAPI\bin\Release\Deap.Todoist.Api.dll
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistAPI\bin\Release\Deap.Todoist.Api.pdb
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistAPI\obj\Release\Deap.Todoist.Api.csprojResolveAssemblyReference.cache
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistAPI\obj\Release\Deap.Todoist.Api.Properties.Resources.resources
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistAPI\obj\Release\Deap.Todoist.Api.csproj.GenerateResource.Cache
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistAPI\obj\Release\Deap.Todoist.Api.dll
+C:\Users\xbl_000\Documents\GitHub\TodoistHabitRPGSync\TodoistAPI\obj\Release\Deap.Todoist.Api.pdb
